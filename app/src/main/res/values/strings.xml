@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Contactos Practica</string>
+    <string name="txtNombre">Nombre Completo</string>
+    <string name="txtFecha">Fecha Nacimiento</string>
+    <string name="txtTel">Telefono</string>
+    <string name="txtEmail">Email</string>
+    <string name="txtDesc">Descripción Contacto</string>
+    <string name="Siguiente">Siguiente</string>
+    <string name="tituloConfirmar">Confirmar Datos</string>
+    <string name="confirmarNombre"></string>
+    <string name="confirmarFecha">Fecha Nacimiento: </string>
+    <string name="confirmarTel">Telefono: </string>
+    <string name="confirmarEmail">Email: </string>
+    <string name="confirmarDesc">Descripción: </string>
+    <string name="btnEditar">Editar Datos</string>
+
+</resources>
